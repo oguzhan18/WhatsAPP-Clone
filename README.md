@@ -23,10 +23,10 @@ Use it as you want
 
 
 ## Screenshots
-<img src="4.png">
-<img src="3.png">
-<img src="2.png">
-<img src="1.png">
+<img src="APP-Images/4.png">
+<img src="APP-Images/3.png">
+<img src="APP-Images/2.png">
+<img src="APP-Images/1.png">
 
 ## Web App in Web Site
 http://oguzhancart.likesyou.org/
